@@ -4,13 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-To run this project locally : Clone this repository.
+To run this project locally : Clone this repository and run the following commands.
 
-### `npm install`
+### 1) `npm install`
 
 Installs all the required dependencies.
 
-### `npm start`
+### 2) `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
